@@ -20,6 +20,16 @@ A minimal full-stack personal expense tracker application with a backend API and
 - **MongoDB** - Document database with flexible schema and excellent scalability
 - **Jest** - Testing framework
 
+
+## Deployment
+
+- **Live Application:**  
+  <a href="https://e11333.netlify.app/" target="_blank">Click here</a>
+
+
+
+
+  
 ### Frontend
 - **Next.js (Pages Router)** - React framework with SSR capabilities
 - **TypeScript** - Consistent typing across the stack
